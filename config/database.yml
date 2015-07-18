@@ -1,0 +1,27 @@
+
+development:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: store_development
+  pool: 5
+  username: cponcax
+  password: bat86
+
+# test:
+#   host: localhost
+#   adapter: postgresql
+#   encoding: unicode
+#   database: blog_caffe_test
+#   pool: 5
+#   username: cponcax
+#   password: bat86
+
+# production:
+#   host: localhost
+#   adapter: postgresql
+#   encoding: unicode
+#   database: blog_caffe_production
+#   pool: 5
+#   username: cponcax
+#   password: bat86
